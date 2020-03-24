@@ -1,4 +1,4 @@
-module redis
+module github.com/ac5tin/goredis
 
 go 1.14
 
